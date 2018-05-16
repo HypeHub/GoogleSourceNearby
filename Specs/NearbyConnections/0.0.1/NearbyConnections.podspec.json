@@ -21,11 +21,11 @@
         "ios": "8.0"
     },
     "source": {
-        "http": "https://dl.google.com/dl/cpdc/38df9717b6011e33/NearbyConnections-0.0.1.tar.gz"
+        "http": "https://dl.google.com/dl/cpdc/a27f000b082ee215/NearbyConnections-0.0.1.tar.gz"
     },
     "summary": "Nearby Connections for iOS",
     "vendored_frameworks": [
-        "Frameworks/NearbyConnections_cpp.framework"
+        "Frameworks/NearbyConnections.framework"
     ],
     "version": "0.0.1"
 }
