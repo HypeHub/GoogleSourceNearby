@@ -1,0 +1,31 @@
+{
+  "authors": "Google, Inc.",
+  "dependencies": {
+    "GoogleToolboxForMac/Logger": "~> 2.1"
+  },
+  "description": "Nearby Connections is a peer-to-peer networking API that allows apps to easily discover, connect to, and exchange data with nearby devices.",
+  "frameworks": [
+    "CoreBluetooth",
+    "CoreFoundation"
+  ],
+  "homepage": "https://developers.google.com/nearby/connections/overview",
+  "libraries": [
+    "c++"
+  ],
+  "license": {
+    "text": "Copyright 2018 Google",
+    "type": "Copyright"
+  },
+  "name": "NearbyConnections",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "http": "https://firebasestorage.googleapis.com/v0/b/high-q.appspot.com/o/NearbyConnections%2FNearbyConnections-0.1.2.tar.gz?alt=media&token=7ddebe8b-e804-4048-8707-224bb5dc9423"
+  },
+  "summary": "Nearby Connections for iOS",
+  "vendored_frameworks": [
+    "Frameworks/NearbyConnections.framework"
+  ],
+  "version": "0.1.2"
+}
